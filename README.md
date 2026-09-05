@@ -1,5 +1,7 @@
 # 📚 NoteBookLM: Kiyosaki’s Financial - Pai Rico, Pai Pobre
 
+> **[🔗 Clique aqui para acessar o Caderno Interativo no NotebookLM](https://notebook.google.com/notebook/0e6a1a21-0597-4efc-9efc-d65cef3531ec)**
+
 Miniguia de educação financeira baseado em "Pai Rico, Pai Pobre". Projeto desenvolvido utilizando engenharia de prompts na IA do NotebookLM para o Desafio da DIO.
 
 ## 🎯 Contexto e Objetivos
